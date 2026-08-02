@@ -1,41 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-07-27",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-28",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-29",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-30",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-31",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-01",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-02",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-08-03",
       "level": 0,
       "count": 0
@@ -1852,22 +1817,26 @@
     },
     {
       "date": "2026-08-01",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-02",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
     "username": "pateldarshil8",
-    "total_contributions": 20,
+    "total_contributions": 21,
     "current_streak": 0,
-    "longest_streak": 3,
+    "longest_streak": 4,
     "best_day": {
       "date": "2026-07-29",
       "level": 4,
       "count": 5
     },
     "monthly_totals": {
-      "2025-07": 0,
       "2025-08": 0,
       "2025-09": 0,
       "2025-10": 0,
@@ -1880,8 +1849,8 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 10,
-      "2026-08": 0
+      "2026-08": 1
     },
-    "generated_at": "2026-08-01T08:33:56.259324Z"
+    "generated_at": "2026-08-02T08:36:43.952692Z"
   }
 }
