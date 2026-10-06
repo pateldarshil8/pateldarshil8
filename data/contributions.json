@@ -1002,7 +1002,7 @@
     },
     {
       "date": "2026-04-23",
-      "level": 1,
+      "level": 2,
       "count": 4
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
       "date": "2026-04-29",
-      "level": 1,
+      "level": 2,
       "count": 4
     },
     {
@@ -1487,12 +1487,12 @@
     },
     {
       "date": "2026-07-29",
-      "level": 1,
+      "level": 2,
       "count": 5
     },
     {
       "date": "2026-07-30",
-      "level": 1,
+      "level": 2,
       "count": 4
     },
     {
@@ -1562,22 +1562,22 @@
     },
     {
       "date": "2026-08-13",
-      "level": 2,
+      "level": 4,
       "count": 15
     },
     {
       "date": "2026-08-14",
-      "level": 2,
+      "level": 3,
       "count": 9
     },
     {
       "date": "2026-08-15",
-      "level": 3,
+      "level": 4,
       "count": 18
     },
     {
       "date": "2026-08-16",
-      "level": 2,
+      "level": 4,
       "count": 14
     },
     {
@@ -1622,12 +1622,12 @@
     },
     {
       "date": "2026-08-25",
-      "level": 2,
+      "level": 4,
       "count": 12
     },
     {
       "date": "2026-08-26",
-      "level": 1,
+      "level": 2,
       "count": 6
     },
     {
@@ -1817,29 +1817,34 @@
     },
     {
       "date": "2026-10-03",
-      "level": 4,
-      "count": 35
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-10-04",
-      "level": 4,
-      "count": 34
+      "level": 1,
+      "count": 1
     },
     {
       "date": "2026-10-05",
       "level": 1,
       "count": 1
+    },
+    {
+      "date": "2026-10-06",
+      "level": 0,
+      "count": 0
     }
   ],
   "stats": {
     "username": "pateldarshil8",
-    "total_contributions": 223,
-    "current_streak": 4,
+    "total_contributions": 156,
+    "current_streak": 0,
     "longest_streak": 64,
     "best_day": {
-      "date": "2026-10-03",
+      "date": "2026-08-15",
       "level": 4,
-      "count": 35
+      "count": 18
     },
     "monthly_totals": {
       "2025-10": 0,
@@ -1854,8 +1859,8 @@
       "2026-07": 10,
       "2026-08": 102,
       "2026-09": 30,
-      "2026-10": 71
+      "2026-10": 4
     },
-    "generated_at": "2026-10-05T14:33:40.382039Z"
+    "generated_at": "2026-10-06T13:16:35.647799Z"
   }
 }
